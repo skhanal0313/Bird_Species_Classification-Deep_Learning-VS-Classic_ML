@@ -1,0 +1,13 @@
+
+# System Requirements
+OS: Windows/macOS/Linux
+RAM: 16 GB recommended
+GPU: Optional but recommended (CUDA-supported)
+
+# Software Requirements
+MATLAB R2023b or newer
+
+# MATLAB Toolboxes
+- Deep Learning Toolbox
+- Computer Vision Toolbox
+- Statistics and Machine Learning Toolbox
